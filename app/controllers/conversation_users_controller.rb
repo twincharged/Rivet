@@ -1,0 +1,4 @@
+class ConversationUsersController < ApplicationController
+
+
+end
